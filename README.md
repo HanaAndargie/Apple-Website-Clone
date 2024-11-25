@@ -23,19 +23,8 @@ The website mimics the layout and design of Apple's homepage. It includes a head
 
 ## Technologies Used
 
-- HTML5: For structuring the web pages.
+- HTML5: This is used to structure the web pages.
 - CSS3: For styling and layout customization.
 - Font Awesome: To use icons for navigation and design.
 - Google Fonts: To style text using the Montserrat font family.
 
-## Project Structure
-
-plaintext
-project-directory/
-│
-├── index.html             # Main HTML file for the website
-├── css/
-│   └── styles.css         # CSS file for styling the website
-├── images/
-│   └── icons/...          # Folder for images and icons used in the project
-└── README.md              # Documentation file (this file)
